@@ -132,6 +132,7 @@ This revealed the underlying issue: Wobly did not have a sales problem, but rath
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/Retention%26Sustainability.png)
 
 **Retention Health**
+
 From a retention standpoint, the business was working against gravity:
 
   • With NRR below 100%, every month started in a hole; the company needed new sales just to get back to where it had been.
@@ -139,6 +140,7 @@ From a retention standpoint, the business was working against gravity:
   • The metaphor is simple: new sales keep filling the bucket, but multiple leaks mean the water level never rises.
 
  <h2 align="center"> Conclusions </h2>
+ 
 Once the various components of the income narrative were linked, the findings were plain and direct:
 
   • The organization does not have an acquisition problem; it understands how to acquire and sign up clients.
@@ -150,6 +152,7 @@ Once the various components of the income narrative were linked, the findings we
   • The biggest return on investment (ROI) will be achieved by enhancing retention and plan stability rather than merely increasing marketing and sales expenses.
 
 <h2 align="center">  Executive Highlights </h2>
+
 For leaders that require the essence in a few key bullets:
 
   • The decline in MRR is primarily due to customer churn, not a lack of new revenue.
