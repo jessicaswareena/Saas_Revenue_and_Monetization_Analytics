@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/fb9d814669d39264856038672fdce9fb0f4f17ec/Images/Wobly-Logo.png" width="350">
+  <img src="https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/fb9d814669d39264856038672fdce9fb0f4f17ec/Images/Wobly-Logo.png" width="300">
 </p>
 
-# Revenue & Monetization Analytics – Wobly (SaaS)
+# Why Revenue Fell While Signups Grew: A Driver-Based MRR and Churn Analysis
 ### Understanding the Challenge
 **Wobly**, a subscription-based SaaS startup, saw something alarming: despite fresh customers joining up and people utilizing the software, **Monthly Recurring Revenue (MRR)** began to fall.Leadership could feel something was off, but they didn’t yet know why.
 
