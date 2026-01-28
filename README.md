@@ -59,7 +59,7 @@ To determine the root reason of the income loss, the analysis is structured arou
   • What do indicators such as Net Revenue Retention (NRR) and Gross Revenue Retention (GRR) reveal about long-term health?
 
 All subsequent sections are directly related to these questions.
-<h2 align="center">  Data Structure</h2>
+<h2 align="center">  Dataset Structure and ERD (Entity relationship diagram) </h2>
 The dataset simulated a real SaaS environment using these key tables:
 
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ERD.png) 
@@ -116,7 +116,9 @@ The entire interactive dashboard can be downloaded [here.](https://app.powerbi.c
 
 **MRR Trend & Momentum**
 
-MRR increased consistently during most of 2024, providing leadership with confidence that the business plan was functioning. However, as 2025 neared, the curvature began to flatten and lean downward. The turnaround point coincided with an increase in churn, indicating that the brakes on growth were caused by more customers leaving or declining, rather than fewer sales.
+  • MRR increased consistently during most of 2024, providing leadership with confidence that the business plan was functioning. 
+  
+  • However, as 2025 neared, the curvature began to flatten and lean downward. The turnaround point coincided with an increase in churn, indicating that the brakes on growth were caused by more customers leaving or declining, rather than fewer sales.
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/RevenueDrivers.png)
 
 **Revenue Driver Breakdown**
