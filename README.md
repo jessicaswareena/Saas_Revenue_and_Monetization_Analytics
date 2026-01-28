@@ -112,6 +112,8 @@ The retention metrics verified what the driver analysis revealed:
   • This combination produces volatile, hard-to-predict monthly revenue, making planning and forecasting considerably more challenging.
   
 The entire interactive dashboard can be downloaded [here.](https://app.powerbi.com/reportEmbed?reportId=503fce24-4820-412a-af7b-41ef62f0d95c&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
+
+All SQL queries used for this analysis can be found [here.](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/tree/b8fdb6341700adf6bb0d6b96ead4cd20b0c9ff9c/SQL%20Queries) 
 <h2 align="center">  Insights Deep Dive </h2>
 
 **MRR Trend & Momentum**
