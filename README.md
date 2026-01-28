@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/fb9d814669d39264856038672fdce9fb0f4f17ec/Images/Wobly-Logo.png" width="300">
+  <img src="https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/9a25b38c9974bac613f0a5cdb8165ad097db51f1/Images/Wobly-Logo.png" width="250">
 </p>
 
 # Why Revenue Fell While Signups Grew: A Driver-Based MRR and Churn Analysis
