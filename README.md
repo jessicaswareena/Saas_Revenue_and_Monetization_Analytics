@@ -4,7 +4,8 @@
 
 # Why Revenue Fell While Signups Grew: A Driver-Based MRR and Churn Analysis
 <h2 align="center">  Understanding the Challenge </h2>
-**Wobly, a subscription-based SaaS startup,** saw something alarming: despite fresh customers joining up and people utilizing the software, **Monthly Recurring Revenue (MRR)** began to fall.Leadership could feel something was off, but they didn’t yet know why.
+
+**Wobly, a subscription-based SaaS startup**,  saw something alarming: despite fresh customers joining up and people utilizing the software, **Monthly Recurring Revenue (MRR)** began to fall.Leadership could feel something was off, but they didn’t yet know why.
 
 They were wrestling with questions like:
 
@@ -62,7 +63,9 @@ All subsequent sections are directly related to these questions.
 The dataset simulated a real SaaS environment using these key tables:
 
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ERD.png) 
+
 This structure allowed analysis without distortion from partial months and ensured each MRR or retention figure accurately reflected real performance.
+
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ExecutiveOverview.png)
 ### Overview of Findings
 
@@ -85,6 +88,7 @@ Three critical health parameters presented a concerning picture:
 These numbers revealed that the most significant issue was retention, not the ability to attract new clients.
 
 **MRR Change Drivers**
+
 Month after month, Wobly's MRR was being pushed in conflicting ways, with some factors dragging it up and others bringing it down. Three patterns emerged when these forces were split out:
 
   • The churned MRR constantly outpaced the new and expansion MRR.
@@ -96,6 +100,7 @@ Month after month, Wobly's MRR was being pushed in conflicting ways, with some f
 In other words, the issue wasn't filling the bucket; it was the quantity of holes in it.
 
 **Retention and Revenue Sustainability**
+
 The retention metrics verified what the driver analysis revealed:
 
   • NRR less than 100% indicates that current customers, on average, do not generate net growth.
@@ -106,10 +111,12 @@ The retention metrics verified what the driver analysis revealed:
   
 The entire interactive dashboard can be downloaded [here.](https://app.powerbi.com/reportEmbed?reportId=503fce24-4820-412a-af7b-41ef62f0d95c&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
 <h2 align="center">  Insights Deep Dive </h2>
+
 **MRR Trend & Momentum**
 
 MRR increased consistently during most of 2024, providing leadership with confidence that the business plan was functioning. However, as 2025 neared, the curvature began to flatten and lean downward. The turnaround point coincided with an increase in churn, indicating that the brakes on growth were caused by more customers leaving or declining, rather than fewer sales.
-![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/Retention%26Sustainability.png)
+![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/RevenueDrivers.png)
+
 **Revenue Driver Breakdown**
 
 By charting every gain and loss each month, the situation became clear:
@@ -119,9 +126,9 @@ By charting every gain and loss each month, the situation became clear:
   • However, attrition and downgrades have routinely wiped out such increases, leaving net new MRR negative in recent months.
 
 This revealed the underlying issue: Wobly did not have a sales problem, but rather a revenue leakage issue.
-![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/RevenueDrivers.png)
-**Retention Health**
 
+**Retention Health**
+![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/Retention%26Sustainability.png)
 From a retention standpoint, the business was working against gravity:
 
   • With NRR below 100%, every month started in a hole; the company needed new sales just to get back to where it had been.
@@ -153,6 +160,7 @@ For leaders that require the essence in a few key bullets:
   • The quickest method to stabilize and then grow revenue is to prioritize retention improvements before expanding acquisition.
 
 <h2 align="center">  Recommendations </h2>
+
 **1. Tackle Churn Head-On**
 
 First, focus on understanding and minimizing churn:
