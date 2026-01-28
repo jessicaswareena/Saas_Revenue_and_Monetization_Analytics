@@ -11,15 +11,8 @@ At first glance, leadership wasn’t sure why. Was the business losing customers
 As the data analyst supporting Finance, Product, and Growth, the goal was clear — **move beyond surface-level revenue reporting** and uncover the true drivers behind revenue changes over time.
 
 ### Project Overview
-• Industry: B2B SaaS – Workflow & Collaboration Software
 
-• Customers: About **6,500 active business users**
-
-• Pricing Model: Subscription with **Free, Basic, Pro, and Enterprise tiers**
-
-•Regions: North America & Europe
-
-Data Period: **Jan 2024 – Jun 2025** (18 months)
+NimbusFlow operates in the **B2B SaaS** world, helping teams manage their work and collaborate more smoothly through its workflow and collaboration platform. Over time, it has grown to serve around **6,500 active business customers**, each relying on its tools to run day-to-day operations. The business runs on a **subscription model**, offering a clear ladder of value with **Free, Basic, Pro, and Enterprise** plans so that smaller teams can start light and larger organizations can scale up as their needs grow. Its customer base stretches across **North America and Europe**, giving it a diverse mix of markets, company sizes, and use cases. All of the analysis in this project is grounded in an **18‑month window from January 2024 to June 2025**, capturing both the period of strong growth and the later phase where warning signs in revenue began to appear.
 
 Despite having a steady stream of new customers, the company entered 2025 with **volatile MRR** and leadership lacked visibility into:
 
@@ -54,11 +47,11 @@ This structure allowed analysis without distortion from partial months and ensur
 
 • Core health signals:
 
-Net Revenue Retention (NRR): 74%
+  » Net Revenue Retention (NRR): 74%
 
-Gross Revenue Retention (GRR): 62%
+  » Gross Revenue Retention (GRR): 62%
 
-MRR Churn: 16%
+  » MRR Churn: 16%
 
 These numbers confirmed that **retention, not acquisition, was the weak link.**
 
