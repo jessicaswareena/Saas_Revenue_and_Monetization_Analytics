@@ -200,6 +200,7 @@ Avoid putting additional money into a leaking system:
 
   • Improved churn and expansion will quadruple the impact of every subsequent marketing investment.
 <h2 align="center"> What I'do next with more data </h2>
+
 With more data, the analysis might be more detailed and predictive:
 
   • Conduct a cohort study to see how turnover changes as consumers age on the platform.
