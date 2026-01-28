@@ -64,7 +64,7 @@ The dataset simulated a real SaaS environment using these key tables:
 
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ERD.png) 
 
-This structure allowed analysis without distortion from partial months and ensured each MRR or retention figure accurately reflected real performance.
+This structure allowed analysis without distortion from partial months and ensured each MRR or retention figure accurately reflected real performance. The dataset is AI-generated and synthetic, created to model realistic SaaS subscription, revenue, and retention dynamics.The data distributions and structure were created to replicate actual production systems without utilizing sensitive or confidential information.
 
 <h2 align="center">  Executive Overview </h2>
 
