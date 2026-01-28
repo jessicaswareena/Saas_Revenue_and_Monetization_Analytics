@@ -65,7 +65,7 @@ The dataset simulated a real SaaS environment using these key tables:
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ERD.png) 
 
 This structure allowed analysis without distortion from partial months and ensured each MRR or retention figure accurately reflected real performance.
-
+<h2 align="center">  Executive Overview </h2>
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/ExecutiveOverview.png)
 ### Overview of Findings
 
@@ -127,8 +127,9 @@ By charting every gain and loss each month, the situation became clear:
 
 This revealed the underlying issue: Wobly did not have a sales problem, but rather a revenue leakage issue.
 
-**Retention Health**
 ![image alt](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics/blob/66bca45a3d85389d553c2ceaa1651c8856afc97f/Images/Retention%26Sustainability.png)
+
+**Retention Health**
 From a retention standpoint, the business was working against gravity:
 
   • With NRR below 100%, every month started in a hole; the company needed new sales just to get back to where it had been.
