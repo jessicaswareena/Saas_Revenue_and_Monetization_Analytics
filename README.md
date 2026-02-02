@@ -5,7 +5,7 @@
 # Why Revenue Fell While Signups Grew: A Driver-Based MRR and Churn Analysis
 <h2 align="center">  Understanding the Challenge </h2>
 
-**Wobly, a subscription-based SaaS startup**,  saw something alarming: despite fresh customers joining up and people utilizing the software, **Monthly Recurring Revenue (MRR)** began to fall.Leadership could feel something was off, but they didn’t yet know why.
+**Wobly, a subscription-based SaaS startup**,  saw something alarming: despite fresh customers joining up and people utilizing the software, **Monthly Recurring Revenue (MRR)** began to fall. Leadership could feel something was off, but they didn’t yet know why.
 
 They were wrestling with questions like:
 
@@ -19,7 +19,7 @@ As the **data analyst supporting Finance, Product, and Growth,** the mission was
 
 <h2 align="center"> Project Overview </h2>
 
-Wobly operates as a **B2B SaaS** company that provides a workflow and collaboration platform to assist teams manage their work and interact more effectively. Over time, it has expanded to service over **6,500 active business customers**, each of whom rely on its tools to operate their daily operations. The company operates on a **subscription model**, providing a clear value ladder with **Free, Basic, Pro, and Enterprise** options, allowing smaller teams to start small and bigger businesses to scale up as their requirements expand. Its customer base spans **North America and Europe**, representing a varied range of markets, corporate sizes, and use cases.This project's covers an 18-month timeframe from January 2024 to June 2025, including periods of great growth and warning indicators in revenue.
+Wobly operates as a **B2B SaaS** company that provides a workflow and collaboration platform to assist teams manage their work and interact more effectively. Over time, it has expanded to service over **6,500 active business customers**, each of whom rely on its tools to operate their daily operations. The company operates on a **subscription model**, providing a clear value ladder with **Free, Basic, Pro, and Enterprise** options, allowing smaller teams to start small and bigger businesses to scale up as their requirements expand. Its customer base spans **North America and Europe**, representing a varied range of markets, corporate sizes, and use cases.This project's covers an **18-month timeframe from January 2024 to June 2025, including periods of great growth and warning indicators in revenue.
 
 Despite a constant influx of new clients, the firm entered 2025 with **volatile MRR**, and leadership had little foresight into:
 
